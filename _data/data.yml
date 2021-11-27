@@ -7,29 +7,21 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Victor Marsik
+    tagline: Electrical Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
+    email: victormarsik@gmail.com
+    phone: (810)-329-0709
+    linkedin: Victor Marsik
+    github: VictorMarsik
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       - idiom: English
-        level: Native
+        level: Professional
 
       - idiom: French
         level: Professional
@@ -38,13 +30,13 @@ sidebar:
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Fitness
         link:
 
-      - item: Snowboarding
+      - item: Coding
         link:
 
-      - item: Cooking
+      - item: Business
         link:
 
 career-profile:
@@ -57,20 +49,9 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
+    - degree: B.Eng Electrical Engineering
       university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+      time: 2017 - Present
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -80,49 +61,21 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Project Manager
+      time: 2020 - Present
+      company: SigmaPoint Technologies Inc.
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
           - Bullet point
           - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Risk Assessment Engineer
+      time: May 2019 - September 2019
+      company: Health Canada
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Velocity
         link: "#hook"
@@ -144,48 +97,26 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: C++/C
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Java
         level: 98%
 
-      - name: Angular
+      - name: Vivado
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: Cadence
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Eagle
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: Arena Simulation
         level: 60%
 
 footer: >
